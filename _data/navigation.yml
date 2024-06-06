@@ -18,11 +18,18 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
+  - title: "flutter"
+    url: /categories/flutter/
+  - title: "dart"
+    url: /categories/dart/
   - title: "gitblog"
     url: /categories/gitblog/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "git"
+    url: /categories/git/
+    
+sidebar-category:
+  - title: Category
+    children:
+      - title: "Today I Learned"
+        url: /TIL/
+        category: "TIL"
