@@ -1,9 +1,9 @@
 ---
-title: "Flutter"
+title: "widget"
 layout: category
-permalink: /categories/flutter/
+permalink: /categories/flutter/widget
 author_profile: true
-taxonomy: Flutter
+taxonomy: widget
 sidebar:
   nav: "categories"
 ---
