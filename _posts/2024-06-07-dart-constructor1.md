@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 
 date: 2024-06-07
-last_modified_at: 2024-06-07
+last_modified_at: 2024-06-13
 ---
 # 생성자 종류
 ## 디폴트 생성자
