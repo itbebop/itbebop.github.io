@@ -21,15 +21,17 @@ categories:
   - title: "Flutter"
     children:
     - title: "dart"
-      url: /categories/flutter/dart/
+      url: /categories/flutter/dart/    
+    - title: "documents"
+      url: /categories/flutter/documents/
     - title: "widget"
       url: /categories/flutter/widget
   - title: "Git"
     children:
-    - title: "gitblog"
-      url: /categories/gitblog/
     - title: "git"
       url: /categories/git/
+    - title: "gitblog"
+      url: /categories/gitblog/
     
 sidebar-category:
   - title: Category
