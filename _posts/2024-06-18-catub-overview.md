@@ -7,7 +7,7 @@ categories:
 tags:
   - [proeject, android, catub, github]
 
-permalink: /categories/project/catub/
+# permalink: /categories/project/catub/
 
 toc: true
 toc_sticky: true

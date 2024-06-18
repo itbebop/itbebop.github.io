@@ -7,7 +7,7 @@ categories:
 tags:
   - [proeject, android, app design]
 
-permalink: /categories/project/catub/
+# permalink: /categories/project/catub/
 
 toc: true
 toc_sticky: true
