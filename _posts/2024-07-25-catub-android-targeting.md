@@ -1,6 +1,6 @@
 ---
 title: "[Catub]Android targetting"
-excerpt: "첫 App project"
+excerpt: "targetSdkVersion 변경"
 
 categories:
   - catub
