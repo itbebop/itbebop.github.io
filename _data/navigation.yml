@@ -36,6 +36,10 @@ categories:
     children:
     - title: "catub"
       url: /categories/project/catub/ 
+  - title: "Review"
+    children:
+    - title: "book"
+      url: /categories/review/book/       
     
 # sidebar-category:
 #   - title: Category
