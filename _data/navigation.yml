@@ -20,27 +20,30 @@ main:
 categories:
   - title: "Flutter"
     children:
-    - title: "dart"
-      url: /categories/flutter/dart/    
-    - title: "documents"
-      url: /categories/flutter/documents/
-    - title: "widget"
-      url: /categories/flutter/widget
+      - title: "dart"
+        url: /categories/flutter/dart/
+      - title: "documents"
+        url: /categories/flutter/documents/
+      - title: "widget"
+        url: /categories/flutter/widget
+  - title: "Android"
+    children:
+      - title: "release"
+        url: /categories/android/release/
   - title: "Git"
     children:
-    - title: "git"
-      url: /categories/git/git
-    - title: "gitblog"
-      url: /categories/git/gitblog/  
+      - title: "git"
+        url: /categories/git/git
+      - title: "gitblog"
+        url: /categories/git/gitblog/
   - title: "Project"
     children:
-    - title: "catub"
-      url: /categories/project/catub/ 
+      - title: "catub"
+        url: /categories/project/catub/
   - title: "Review"
     children:
-    - title: "book"
-      url: /categories/review/book/       
-    
+      - title: "book"
+        url: /categories/review/book/
 # sidebar-category:
 #   - title: Category
 #     children:
