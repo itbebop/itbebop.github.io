@@ -98,11 +98,11 @@ analytics:
 
 # Site Author
 author:
-  name: "your name here" # 블로그 닉네임
-  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
+  name: "it bebop" # 블로그 닉네임
+  avatar: "/assets/images/profile.jpg" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
-  # email            : "youremailhere@xxxxxx.com"
+  email: "it.bebop@gmail.com"
 
   links: # 사이트 링크
 #     - label: "Email"
