@@ -1,7 +1,7 @@
 ---
 title: "Android"
 layout: category
-permalink: /categories/Android/release/
+permalink: /categories/android/release/
 author_profile: true
 taxonomy: release
 sidebar:
