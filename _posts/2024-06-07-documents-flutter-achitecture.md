@@ -1,18 +1,18 @@
 ---
-title: "[Documents] Flutter Achiteture"
+title: "[Documents] Flutter Architeture"
 excerpt: "Flutter architectural overview 문서읽기"
 
 categories:
   - documents
 tags:
-  - [tag1, tag2]
+  - [Flutter, Architecture]
 
-permalink: /documents/widget/
+permalink: /documents/Flutter-Architeture/
 
 toc: true
 toc_sticky: true
 
-date: 2025-04-24
+date: 2024-06-11
 last_modified_at: 2025-04-24
 ---
 

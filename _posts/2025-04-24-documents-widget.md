@@ -1,22 +1,23 @@
 ---
+
 title: "[Documents] Widget"
 excerpt: "Flutter Widget 문서읽기"
 
 categories:
-  - documents
-tags:
-  - [tag1, tag2]
 
-permalink: /documents/flutter-achitecture/
+- documents
+  tags:
+- [Flutter, Widget]
+
+permalink: /documents/Flutter-Widget/
 
 toc: true
 toc_sticky: true
 
-date: 2024-06-11
-last_modified_at: 2024-06-13
----
+date: 2025-04-24
+last_modified_at: 2025-04-24
 
-# [Flutter Widget 문서1](https://docs.flutter.dev/get-started/fundamentals/widgets)
+[Flutter Widget 문서1](https://docs.flutter.dev/get-started/fundamentals/widgets)
 
 # 목차
 
