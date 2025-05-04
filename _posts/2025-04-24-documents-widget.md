@@ -4,9 +4,9 @@ title: "[Documents] Widget"
 excerpt: "Flutter Widget 문서읽기"
 
 categories:
-
 - documents
-  tags:
+
+tags:
 - [Flutter, Widget]
 
 permalink: /documents/Flutter-Widget/
@@ -16,6 +16,7 @@ toc_sticky: true
 
 date: 2025-04-24
 last_modified_at: 2025-04-24
+---
 
 [Flutter Widget 문서1](https://docs.flutter.dev/get-started/fundamentals/widgets)
 
