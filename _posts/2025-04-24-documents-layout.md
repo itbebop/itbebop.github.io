@@ -16,7 +16,7 @@ date: 2025-04-26
 last_modified_at: 2025-04-26
 ---
 
-# [Flutter Widget 문서1](https://docs.flutter.dev/get-started/fundamentals/widgets)
+# [Flutter Layout 문서](https://docs.flutter.dev/get-started/fundamentals/layout)
 
 # 목차
 
