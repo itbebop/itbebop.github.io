@@ -26,6 +26,8 @@ categories:
         url: /categories/flutter/documents/
       - title: "widget"
         url: /categories/flutter/widget
+      - title: "packages"
+        url: /categories/flutter/packages/
   - title: "Android"
     children:
       - title: "release"
