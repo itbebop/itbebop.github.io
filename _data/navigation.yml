@@ -18,6 +18,16 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
+  - title: "co-work"
+    children:
+      - title: "intro"
+        url: /categories/co-work/intro/
+      - title: "communication"
+        url: /categories/co-work/communication/
+      - title: "code-modification"
+        url: /categories/co-work/code-modification/
+      - title: "sequence"
+        url: /categories/co-work/sequence/
   - title: "Flutter"
     children:
       - title: "dart"
